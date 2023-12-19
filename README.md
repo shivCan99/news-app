@@ -1,4 +1,4 @@
 API based news application. 
 US
-Different categories like, Sports, Politics, Weather
+Different categories like, Sports, Politics, Weather and Criminial Activity.
 
